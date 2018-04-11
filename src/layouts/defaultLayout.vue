@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="default-layout">
     <header class="header">
       <a href="#">logo</a>
     </header>
@@ -12,11 +12,7 @@
 
 <script>
   export default {
-    name : 'defaultLayout'
+    name : 'DefaultLayout'
 
   }
 </script>
-
-<style scoped>
-
-</style>
