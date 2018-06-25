@@ -1,7 +1,7 @@
 <template>
   <div class="default-layout">
     <header class="header">
-      <a href="#">logo</a>
+      <a href="#">cabecera del layout principal</a>
     </header>
     <main class="main-content">
       <slot></slot>

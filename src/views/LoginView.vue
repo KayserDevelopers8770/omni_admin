@@ -1,7 +1,7 @@
 <template>
-  <div class="login-view">
-    
-  </div>
+  <default-layout>
+    <h1>Login</h1>
+  </default-layout>
 </template>
 
 <script>
